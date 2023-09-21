@@ -24,7 +24,7 @@ Vanematel lastel tasub olla teadlik järgmistest ohtudest:
 - Toiduga mängimine (eriti naerdes!)
 - Kompvekid
 - Pähklid
-- Mänguasjade osad
+- Mänguasjade osades
 
 ---
 
