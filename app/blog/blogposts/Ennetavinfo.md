@@ -1,5 +1,6 @@
 ---
 title: 'ennetav info'
+logo: 'fa-solid fa-info'
 description: 'Laste vigastusi ja hädaolukordi on kergem ära hoida kui nende tagajärgi taluda. Selleks on vaja teada üldisi reegleid ning olla tähelepanelik ja hooliv. Veenduge veelkord, kas te olete teinud kõik oma lapse ohutuseks nii kodus, õues-aias kui tänaval. Ehk saab veel midagi teha.'
 ---
 
